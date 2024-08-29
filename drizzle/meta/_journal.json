@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1720469117553,
+      "tag": "0000_fixed_adam_destine",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1720469581977,
+      "tag": "0001_violet_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722815281456,
+      "tag": "0002_sparkling_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1723249341450,
+      "tag": "0003_new_maestro",
+      "breakpoints": true
+    }
+  ]
+}
