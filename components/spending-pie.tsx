@@ -36,7 +36,6 @@ export const SpendingPie = ({ data = []}:Props) =>{
 
     const onTypeChange = ( type:string )=>{
 
-        // TODO: ADD A PAYWALL
 
         setChartType(type);
     }

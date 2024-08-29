@@ -37,7 +37,6 @@ export const Chart = ({ data = []}:Props) =>{
 
     const onTypeChange = ( type:string )=>{
 
-        // TODO: ADD A PAYWALL
 
         setChartType(type);
     }

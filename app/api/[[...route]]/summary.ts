@@ -92,7 +92,6 @@ const app = new Hono()
             lastPeriodEnd
         ); 
 
-        //TODO: lastPeriod=> return all null -> This happens if you dont have any transactions before the last 30 days
 
         
         const incomeChange = calculatePorcentageChange(

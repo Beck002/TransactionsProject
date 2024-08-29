@@ -146,7 +146,6 @@ const TransactionsPage = () => {
   )
 }
 
-// TODO: CardContent Does not filter its the same to categories
 
 
 export default TransactionsPage;
